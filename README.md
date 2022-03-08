@@ -6,7 +6,7 @@ The application supports the following options:\
 1.Compose a signal by adding sinusoidals with specified magnitude,frequency and phase shift\
 2.Sample the signal with adjustable sample rate\
 3.Reconstruct the sampled points using sinc reconstruction method\
-4.Import a nonsynthetic signal from an excel sheet (csv) to test the sampling and reconstruction on more complex signals\
+4.Import a nonsynthetic signal from an excel sheet (csv) to test the sampling and reconstruction on more complex signals
 
 The following video shows most of the application functionalities:
 
